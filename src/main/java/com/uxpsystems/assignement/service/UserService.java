@@ -58,6 +58,7 @@ public class UserService {
 	            entity = userRepo.save(entity);
 	             
 	            return entity;
+	            
 	        }
 	    } 
 	 
